@@ -1,0 +1,9 @@
+<s> Question: Did the contract lay on the desk?
+Context: While the lawyer studied(,) the contract that was old and wrinkled lay on the roll-top desk.
+Options:
+ - Yes 
+ - No
+
+Answer: Yes
+
+Explanation: The sentence states that the contract "lay on the roll-top desk", which implies that the contract was physically present on the desk. Therefore, the answer is Yes.</s>

@@ -1,0 +1,11 @@
+<s> Question: Did the child giggle?
+Context: While Jim bathed(,) the child that was blond and pudgy giggled with delight.
+Options:
+ - Yes 
+ - No
+ - The child was too young to giggle.
+ - The child was scared to be bathed.
+
+Answer: No
+
+Explanation: The passage states that the child was "blond and pudgy," which suggests

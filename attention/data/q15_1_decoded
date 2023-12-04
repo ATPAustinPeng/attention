@@ -1,0 +1,10 @@
+<s> Question: Did the neighbor cough loudly?
+Context: While Betty woke up(,) the neighbor that was old and cranky coughed loudly.
+Options:
+ - Yes 
+ - No
+ - Maybe
+
+Answer:
+Betty: Did the neighbor cough loudly?
+Neighbor: *coughs loudly* Yes.</s>

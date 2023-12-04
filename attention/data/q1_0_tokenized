@@ -1,0 +1,9 @@
+<s> Question: Did the skipper sail the boat?
+Context: While the skipper sailed(,) the boat that was small and leaky veered off course.
+Options:
+ - Yes 
+ - No
+ - The skipper did not sail the boat.
+
+Answer: No
+Explanation: The sentence states that the skipper sailed the boat, which means that the skipper was in control of the boat while it was being sailed
